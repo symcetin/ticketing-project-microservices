@@ -6,6 +6,7 @@ public class TaskServiceException extends Exception {
         super();
     }
 
+
     public TaskServiceException (String message) {
         super(message);
     }
